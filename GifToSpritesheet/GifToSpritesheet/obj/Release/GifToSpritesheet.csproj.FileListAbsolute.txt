@@ -1,0 +1,9 @@
+D:\VSProjects\Spritesheet\GifToSpritesheet\GifToSpritesheet\bin\Release\GifToSpritesheet.exe.config
+D:\VSProjects\Spritesheet\GifToSpritesheet\GifToSpritesheet\bin\Release\GifToSpritesheet.exe
+D:\VSProjects\Spritesheet\GifToSpritesheet\GifToSpritesheet\bin\Release\GifToSpritesheet.pdb
+D:\VSProjects\Spritesheet\GifToSpritesheet\GifToSpritesheet\obj\Release\GifToSpritesheet.csprojResolveAssemblyReference.cache
+D:\VSProjects\Spritesheet\GifToSpritesheet\GifToSpritesheet\obj\Release\GifToSpritesheet.Form1.resources
+D:\VSProjects\Spritesheet\GifToSpritesheet\GifToSpritesheet\obj\Release\GifToSpritesheet.Properties.Resources.resources
+D:\VSProjects\Spritesheet\GifToSpritesheet\GifToSpritesheet\obj\Release\GifToSpritesheet.csproj.GenerateResource.Cache
+D:\VSProjects\Spritesheet\GifToSpritesheet\GifToSpritesheet\obj\Release\GifToSpritesheet.exe
+D:\VSProjects\Spritesheet\GifToSpritesheet\GifToSpritesheet\obj\Release\GifToSpritesheet.pdb
